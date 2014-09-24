@@ -1,0 +1,150 @@
+
+# puzlet
+
+[github/puzlet/manifest]
+checkout = git clone 'git@github.com:puzlet/manifest' 'manifest'
+
+[github/puzlet/puzlet]
+checkout = git clone 'git@github.com:puzlet/puzlet' 'puzlet'
+
+[github/puzlet/math]
+checkout = git clone 'git@github.com:puzlet/math' 'math'
+
+[github/puzlet/cs-intro]
+checkout = git clone 'git@github.com:puzlet/cs-intro' 'cs-intro'
+
+[github/puzlet/ode-fixed]
+checkout = git clone 'git@github.com:puzlet/ode-fixed' 'ode-fixed'
+
+[github/puzlet/3d-demos]
+checkout = git clone 'git@github.com:puzlet/3d-demos' '3d-demos'
+
+[github/puzlet/utility]
+checkout = git clone 'git@github.com:puzlet/utility' 'utility'
+
+[github/puzlet/view-finder]
+checkout = git clone 'git@github.com:puzlet/view-finder' 'view-finder'
+
+[github/puzlet/blab]
+checkout = git clone 'git@github.com:puzlet/blab' 'blab'
+
+[github/puzlet/puzlet.github.io]
+checkout = git clone 'git@github.com:puzlet/puzlet.github.io' 'puzlet.github.io'
+
+[github/puzlet/basic-animation]
+checkout = git clone 'git@github.com:puzlet/basic-animation' 'basic-animation'
+
+[github/puzlet/line-chart]
+checkout = git clone 'git@github.com:puzlet/line-chart' 'line-chart'
+
+# mathblab
+
+[github/mathblab/grand-challenge]
+checkout = git clone 'git@github.com:mathblab/grand-challenge' 'grand-challenge'
+
+[github/mathblab/mathblab.github.io]
+checkout = git clone 'git@github.com:mathblab/mathblab.github.io' 'mathblab.github.io'
+
+# stemblab
+
+[github/stemblab/beyond-nyquist]
+checkout = git clone 'git@github.com:stemblab/beyond-nyquist' 'beyond-nyquist'
+
+[github/stemblab/matrix-spark]
+checkout = git clone 'git@github.com:stemblab/matrix-spark' 'matrix-spark'
+
+[github/stemblab/cs-primer]
+checkout = git clone 'git@github.com:stemblab/cs-primer' 'cs-primer'
+
+[github/stemblab/intuitive-cs]
+checkout = git clone 'git@github.com:stemblab/intuitive-cs' 'intuitive-cs'
+
+[github/stemblab/l1-magic-ports]
+checkout = git clone 'git@github.com:stemblab/l1-magic-ports' 'l1-magic-ports'
+
+[github/stemblab/ira-cs]
+checkout = git clone 'git@github.com:stemblab/ira-cs' 'ira-cs'
+
+[github/stemblab/irls]
+checkout = git clone 'git@github.com:stemblab/irls' 'irls'
+
+[github/stemblab/mutual-coherence]
+checkout = git clone 'git@github.com:stemblab/mutual-coherence' 'mutual-coherence'
+
+[github/stemblab/julian-day]
+checkout = git clone 'git@github.com:stemblab/julian-day' 'julian-day'
+
+[github/stemblab/fermi-pasta-ulam]
+checkout = git clone 'git@github.com:stemblab/fermi-pasta-ulam' 'fermi-pasta-ulam'
+
+[github/stemblab/vanderpol-portrait]
+checkout = git clone 'git@github.com:stemblab/vanderpol-portrait' 'vanderpol-portrait'
+
+[github/stemblab/metronome]
+checkout = git clone 'git@github.com:stemblab/metronome' 'metronome'
+
+[github/stemblab/mathgifs-logo]
+checkout = git clone 'git@github.com:stemblab/mathgifs-logo' 'mathgifs-logo'
+
+[github/stemblab/mass-spring-vis]
+checkout = git clone 'git@github.com:stemblab/mass-spring-vis' 'mass-spring-vis'
+
+[github/stemblab/cs-intro]
+checkout = git clone 'git@github.com:stemblab/cs-intro' 'cs-intro'
+
+[github/stemblab/complex-pseudoinverse]
+checkout = git clone 'git@github.com:stemblab/complex-pseudoinverse' 'complex-pseudoinverse'
+
+[github/stemblab/complex-svd]
+checkout = git clone 'git@github.com:stemblab/complex-svd' 'complex-svd'
+
+[github/stemblab/stemblab.github.io]
+checkout = git clone 'git@github.com:stemblab/stemblab.github.io' 'stemblab.github.io'
+
+[github/stemblab/gray-scott]
+checkout = git clone 'git@github.com:stemblab/gray-scott' 'gray-scott'
+
+[github/stemblab/soliton-startrek]
+checkout = git clone 'git@github.com:stemblab/soliton-startrek' 'soliton-startrek'
+
+[github/stemblab/weierstrass]
+checkout = git clone 'git@github.com:stemblab/weierstrass' 'weierstrass'
+
+# pdectb
+
+[github/pdectb.github.io]
+checkout = git clone 'git@github.com:pdectb/pdectb.github.io' 'pdectb.github.io'
+chain = true
+
+# nlblab
+
+[github/nlblab/nlblab.github.io]
+checkout = git clone 'git@github.com:nlblab/nlblab.github.io' 'nlblab.github.io'
+
+[github/nlblab/sync-intro-1]
+checkout = git clone 'git@github.com:nlblab/sync-intro-1' 'sync-intro-1'
+
+# climateblab
+
+[github/climateblab/climateblab.github.io]
+checkout = git clone 'git@github.com:climateblab/climateblab.github.io' 'climateblab.github.io'
+
+[github/climateblab/ideal-greenhouse]
+checkout = git clone 'git@github.com:climateblab/ideal-greenhouse' 'ideal-greenhouse'
+
+[github/climateblab/dangerous-threshold]
+checkout = git clone 'git@github.com:climateblab/dangerous-threshold' 'dangerous-threshold'
+
+[github/climateblab/warming-trends]
+checkout = git clone 'git@github.com:climateblab/warming-trends' 'warming-trends'
+
+[github/climateblab/gamsatc]
+checkout = git clone 'git@github.com:climateblab/gamsatc' 'gamsatc'
+
+[github/climateblab/visualize-mitigation]
+checkout = git clone 'git@github.com:climateblab/visualize-mitigation' 'visualize-mitigation'
+
+[github/climateblab/energy-balance]
+checkout = git clone 'git@github.com:climateblab/energy-balance' 'energy-balance'
+
+
