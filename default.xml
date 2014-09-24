@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+  <remote  name="puzlet" fetch="https://github.com/puzlet" /> 
+  <remote  name="mathblab" fetch="https://github.com/mathblab" /> 
+  <remote  name="stemblab" fetch="https://github.com/stemblab" /> 
+  <remote  name="pdectb" fetch="https://github.com/pdectb" /> 
+  <remote  name="nlblab" fetch="https://github.com/nlblab" /> 
+  <remote  name="climateblab" fetch="https://github.com/climateblab" /> 
+
+  <default sync-j="4" />
+
+  <project path="github/puzlet/manifest" name="manifest" remote="puzlet" revision="master"/>
+  <project path="github/puzlet/puzlet" name="puzlet" remote="puzlet" revision="gh-pages"/>
+  <project path="github/puzlet/math" name="math" remote="puzlet" revision="gh-pages"/>
+  <project path="github/puzlet/cs-intro" name="cs-intro" remote="puzlet" revision="gh-pages"/>
+  <project path="github/puzlet/ode-fixed" name="ode-fixed" remote="puzlet" revision="gh-pages"/>
+  <project path="github/puzlet/3d-demos" name="3d-demos" remote="puzlet" revision="gh-pages"/>
+  <project path="github/puzlet/utility" name="utility" remote="puzlet" revision="gh-pages"/>
+  <project path="github/puzlet/view-finder" name="view-finder" remote="puzlet" revision="gh-pages"/>
+  <project path="github/puzlet/blab" name="blab" remote="puzlet" revision="gh-pages"/>
+  <project path="github/puzlet/puzlet.github.io" name="puzlet.github.io" remote="puzlet" revision="master"/>
+  <project path="github/puzlet/basic-animation" name="basic-animation" remote="puzlet" revision="gh-pages"/>
+  <project path="github/puzlet/line-chart" name="line-chart" remote="puzlet" revision="gh-pages"/>
+
+  <project path="github/mathblab/grand-challenge" name="grand-challenge" remote="mathblab" revision="gh-pages"/>
+  <project path="github/mathblab/mathblab.github.io" name="mathblab.github.io" remote="mathblab" revision="master"/>
+
+  <project path="github/stemblab/beyond-nyquist" name="beyond-nyquist" remote="stemblab" revision="gh-pages"/>
+  <project path="github/stemblab/matrix-spark" name="matrix-spark" remote="stemblab" revision="gh-pages"/>
+  <project path="github/stemblab/cs-primer" name="cs-primer" remote="stemblab" revision="gh-pages"/>
+  <project path="github/stemblab/intuitive-cs" name="intuitive-cs" remote="stemblab" revision="gh-pages"/>
+  <project path="github/stemblab/l1-magic-ports" name="l1-magic-ports" remote="stemblab" revision="gh-pages"/>
+  <project path="github/stemblab/ira-cs" name="ira-cs" remote="stemblab" revision="gh-pages"/>
+  <project path="github/stemblab/irls" name="irls" remote="stemblab" revision="gh-pages"/>
+  <project path="github/stemblab/mutual-coherence" name="mutual-coherence" remote="stemblab" revision="gh-pages"/>
+  <project path="github/stemblab/julian-day" name="julian-day" remote="stemblab" revision="gh-pages"/>
+  <project path="github/stemblab/fermi-pasta-ulam" name="fermi-pasta-ulam" remote="stemblab" revision="gh-pages"/>
+  <project path="github/stemblab/vanderpol-portrait" name="vanderpol-portrait" remote="stemblab" revision="gh-pages"/>
+  <project path="github/stemblab/metronome" name="metronome" remote="stemblab" revision="gh-pages"/>
+  <project path="github/stemblab/mathgifs-logo" name="mathgifs-logo" remote="stemblab" revision="gh-pages"/>
+  <project path="github/stemblab/mass-spring-vis" name="mass-spring-vis" remote="stemblab" revision="gh-pages"/>
+  <project path="github/stemblab/cs-intro" name="cs-intro" remote="stemblab" revision="gh-pages"/>
+  <project path="github/stemblab/complex-pseudoinverse" name="complex-pseudoinverse" remote="stemblab" revision="gh-pages"/>
+  <project path="github/stemblab/complex-svd" name="complex-svd" remote="stemblab" revision="gh-pages"/>
+  <project path="github/stemblab/stemblab.github.io" name="stemblab.github.io" remote="stemblab" revision="master"/>
+  <project path="github/stemblab/gray-scott" name="gray-scott" remote="stemblab" revision="gh-pages"/>
+  <project path="github/stemblab/soliton-startrek" name="soliton-startrek" remote="stemblab" revision="gh-pages"/>
+  <project path="github/stemblab/weierstrass" name="weierstrass" remote="stemblab" revision="gh-pages"/>
+
+  <project path="github/pdectb/pdectb.github.io" name="pdectb.github.io" remote="pdectb" revision="master"/>
+  <project path="github/pdectb/kdv-etdrk4" name="kdv-etdrk4" remote="pdectb" revision="gh-pages"/>
+  <project path="github/pdectb/kdv" name="kdv" remote="pdectb" revision="gh-pages"/>
+
+  <project path="github/nlblab/nlblab.github.io" name="nlblab.github.io" remote="nlblab" revision="master"/>
+  <project path="github/nlblab/sync-intro-1" name="sync-intro-1" remote="nlblab" revision="gh-pages"/>
+
+  <project path="github/climateblab/climateblab.github.io" name="climateblab.github.io" remote="climateblab" revision="master"/>
+  <project path="github/climateblab/ideal-greenhouse" name="ideal-greenhouse" remote="climateblab" revision="gh-pages"/>
+  <project path="github/climateblab/dangerous-threshold" name="dangerous-threshold" remote="climateblab" revision="gh-pages"/>
+  <project path="github/climateblab/warming-trends" name="warming-trends" remote="climateblab" revision="gh-pages"/>
+  <project path="github/climateblab/gamsatc" name="gamsatc" remote="climateblab" revision="gh-pages"/>
+  <project path="github/climateblab/visualize-mitigation" name="visualize-mitigation" remote="climateblab" revision="gh-pages"/>
+  <project path="github/climateblab/energy-balance" name="energy-balance" remote="climateblab" revision="gh-pages"/>
+
+</manifest>
